@@ -23,6 +23,7 @@ Tuần 9, 10..:
  - Deploy web lên webserver
 
 Link web: https://javaweb-dienthoai-bygr3.herokuapp.com/trang-chu
+
 Host database: ClearDB ở heroku
 
 
